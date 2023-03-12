@@ -5,11 +5,11 @@
 
 ## Problem Statement
        
- **Problem ID **   |	`PID314`     
+ **Problem ID**   |	`PID314`     
  --- | --- 
-**Name of the Industry ** |	Collector Office, Amreli
-**Problem Statement ** |	Block chain Technology for Smart and Secured Governance.   
-**Description **  |  Blockchain is a technology that allows us to store and use information in a distributed database, with a full guarantee of preserving information in its original form. This technology helps government organizations to deal with fraud and errors as well as reduce the cost of paperwork and ensures transparency of transactions. A blockchain based digital government can protect data, regulate the processes, and reduce fraud in the routine activities while simultaneously increasing trust and accountability. On a blockchain based government model, individuals, business houses and government share information in a secured format. This structure eliminates a single point of failure and protects the sensitive data of citizens and government.Reduces the labor intensive processes.Increases trust in government and online civic systems. This technology will prove helpful in various government aspects such as digital payments, land registration, supply chain traceability, corporate registrations, taxation, identity management etc.      
+**Name of the Industry** |	Collector Office, Amreli
+**Problem Statement** |	Block chain Technology for Smart and Secured Governance.   
+**Description**  |  Blockchain is a technology that allows us to store and use information in a distributed database, with a full guarantee of preserving information in its original form. This technology helps government organizations to deal with fraud and errors as well as reduce the cost of paperwork and ensures transparency of transactions. A blockchain based digital government can protect data, regulate the processes, and reduce fraud in the routine activities while simultaneously increasing trust and accountability. On a blockchain based government model, individuals, business houses and government share information in a secured format. This structure eliminates a single point of failure and protects the sensitive data of citizens and government.Reduces the labor intensive processes.Increases trust in government and online civic systems. This technology will prove helpful in various government aspects such as digital payments, land registration, supply chain traceability, corporate registrations, taxation, identity management etc.      
 
 
 ## Screenshots
