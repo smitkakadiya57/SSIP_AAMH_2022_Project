@@ -1,0 +1,108 @@
+{  
+   "requireDocs":[ 
+
+      
+      {  
+         "service":"Land Registry",
+         "field":[
+            {
+               "label":"Lawyer Id",
+               "name":"lawyer",
+               "type":"number"
+            },
+            {
+               "label":"Aadhar no",
+               "name":"aadhar",
+               "type":"number"
+            },
+            {
+               "label":"User token",
+               "name":"user_token",
+               "type":"text"
+            },
+            {
+               "label":"Aadhar Card",
+               "name":"files",
+               "type":"file"
+            },
+            {
+               "label":"Module Certificate",
+               "name":"files",
+               "type":"file"
+            }
+         ]
+      },
+      {  
+         "service":"Ownership Transfer",
+         "field":[
+            
+            {
+               "label":"Relation",
+               "name":"relation",
+               "type":"text"
+            },
+            
+            {
+               "label":"Property Id",
+               "name":"pid",
+               "type":"text"
+            },
+            {
+               "label":"Property Code",
+               "name":"pcode",
+               "type":"text"
+            },
+            {
+               "label":"Seller Token",
+               "name":"sell_token",
+               "type":"text"
+            },
+            
+            {
+               "label":"Buyer Token",
+               "name":"buy_token",
+               "type":"text"
+            },
+            {
+               "label":"Seller Aadhar Card",
+               "name":"files",
+               "type":"file"
+            },
+            {
+               "label":"Buyer Aadhar Card",
+               "name":"files",
+               "type":"file"
+            }
+
+         ]
+      },
+      {  
+         "service":"Non Agricultural Activity",
+         "field":[
+            
+            {
+               "label":"Aadhar No",
+               "name":"aadhar",
+               "type":"number"
+            },
+            {
+               "label":"User Token",
+               "name":"user_token",
+               "type":"text"
+            },
+            {
+               "label":"Aadhar Card",
+               "name":"files",
+               "type":"file"
+            },
+            {
+               "label":"Land Document",
+               "name":"files",
+               "type":"file"
+            }
+
+         ]
+      }
+         
+   ]
+}

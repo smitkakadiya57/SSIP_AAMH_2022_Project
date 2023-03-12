@@ -1,0 +1,1855 @@
+{  
+   "states":[ 
+
+      
+      
+      {  
+         "district":"Gandhinagar",
+         "taluka":[  
+            {
+               "region":"Dehgam",
+               "village":[ 
+               "Ahamadpur",
+
+               "Amrajina Muvada",
+              
+               "Anguthala",
+              
+               "Antoli",
+              
+               "Antroli",
+              
+               "Arajanjina Muvada",
+              
+               "Babra",
+              
+               "Badpur",
+              
+               "Bahiyel",
+              
+               "Bardoli",
+              
+               "Bariya",
+              
+               "Bhadroda",
+              
+               "Bilamana",
+              
+               "Chamla",
+              
+               "Chekhlapagi",
+              
+               "Chiskari",
+              
+               "Demaliya",
+               "Devkaran Na Muvada",
+
+               "Dharisana",
+              
+               "Dod",
+              
+               "Dumecha",
+              
+               "Ghamij",
+              
+               "Halisa",
+              
+               "Harakhjina Muvada",
+              
+               "Harsoli",
+              
+               "Hathijan",
+              
+               "Hilol",
+              
+               "Hilol Vasna",
+              
+               "Isanpur Dodiya",
+              
+               "Jaliyano Math",
+              
+               "Jalundra Mota",
+              
+               "Jindva",
+              
+               "Jivajini Muvadi",
+              
+               "Kadadara",
+              
+               "Kadjodra",
+              
+               "Kalyanji Na Muvada",
+              
+               "Kamalbandh Vasna",
+              
+               "Kanipur",
+              
+               "Kantharpur",
+              
+               "Karoli",
+              
+               "Khadiya",
+              
+               "Khanpur",
+              
+               "Kodrali",
+              
+               "Krishnanagar",
+              
+               "Lavad",
+              
+               "Lihoda",
+              
+               "Machhang Moti",
+              
+               "Machhang Nani",
+              
+               "Mahudiya",
+              
+               "Meghraj Na Muvada",
+              
+               "Mirapur",
+              
+               "Mirjapur",
+              
+               "Mithana Muvada",
+              
+               "Mosampur",
+              
+               "Moti Pavthi",
+              
+               "Motipura",
+              
+               "Najupura",
+              
+               "Nana Jalundra",
+              
+               "Nandol",
+              
+               "Navanagar",
+              
+               "Ottampur",
+              
+               "Pahadiya",
+              
+               "Palaiya",
+              
+               "Pallano Math",
+              
+               "Palundra",
+              
+               "Pasuniya",
+              
+               "Patna Kuva",
+              
+               "Piplaj",
+              
+               "Rakhiyal",
+              
+               "Ramnagar",
+              
+               "Sagdalpur",
+              
+               "Sahebji Na Muvada",
+              
+               "Salki",
+              
+               "Sambela",
+              
+               "Sametri",
+              
+               "Sampa",
+              
+               "Sanoda",
+              
+               "Shiyapur",
+              
+               "Shiyavada",
+              
+               "Sujana Muvada",
+              
+               "Thadakuva",
+              
+               "Udan",
+              
+               "Vadod",
+              
+               "Vadvasa",
+              
+               "Vardhana Muvada",
+              
+               "Vasana Chaudhary",
+              
+               "Vasna Rathod",
+              
+               "Vasna Sogthi",
+              
+               "Vatva",
+              
+               "Velpura",
+              
+               "Zak"
+            ]
+            },
+            {
+               "region":"Gandhinagar",
+               "village":[      "Adalaj",
+
+               "Adraj Moti",
+         
+               "Alampur",
+         
+               "Ambapur",
+         
+               "Amiyapur",
+         
+               "Bhat",
+         
+               "Bhoyan Rathod",
+         
+               "Chandrala",
+         
+               "Chekhalarani",
+         
+               "Chhala",
+         
+               "Chiloda",
+         
+               "Dabhoda",
+         
+               "Dantali",
+         
+               "Dashela",
+         
+               "Dhanap",
+         
+               "Dolarana Vasana",
+         
+               "Galudan",
+         
+               "Giyod",
+         
+               "Isanpur Mota",
+         
+               "Jakhora",
+         
+               "Jalund",
+         
+               "Jamiyatpur",
+         
+               "Karai",
+         
+               "Khoraj",
+         
+               "Koba",
+         
+               "Kolvada",
+         
+               "Koteshwar",
+         
+               "Kudasan",
+         
+               "Lavarpur",
+         
+               "Lekawada",
+         
+               "Limbadia",
+         
+               "Madhavgadh",
+         
+               "Magodi",
+         
+               "Mahudara",
+         
+               "Medra",
+         
+               "Nabhoi",
+         
+               "Nava Dharmpur",
+         
+               "Palaj",
+         
+               "Pindharada",
+         
+               "Piplaj",
+         
+               "Pirojpur",
+         
+               "Por",
+         
+               "Prantiya",
+         
+               "Pundarasan",
+         
+               "Raipur",
+         
+               "Rajpur",
+         
+               "Ranasan",
+         
+               "Randesan",
+         
+               "Randheja",
+         
+               "Ratanpur",
+         
+               "Raysan",
+         
+               "Rupal",
+         
+               "Sadra",
+         
+               "Sardhav",
+         
+               "Sargasan",
+         
+               "Shahpur",
+         
+               "Shertha",
+         
+               "Shiholi Moti",
+         
+               "Sonarda",
+         
+               "Sonipur",
+         
+               "Sugad",
+         
+               "Tarapur",
+         
+               "Titoda",
+         
+               "Unava",
+         
+               "Unvarsad",
+         
+               "Vadodara",
+         
+               "Valad",
+         
+               "Vankanerda",
+         
+               "Vasan",
+         
+               "Vasana Hadmatia",
+         
+               "Vavol",
+         
+               "Vira Talavdi",
+         
+               "Zundal"
+         ]
+            },
+            {
+               "region":"Kalol",
+               "village":[      "Adhana",
+
+               "Aluva",
+         
+               "Amaja",
+         
+               "Arsodiya",
+         
+               "Balva",
+         
+               "Bhadol",
+         
+               "Bhavpura",
+         
+               "Bhimasan",
+         
+               "Bhoyan Moti",
+         
+               "Bileshvarpura",
+         
+               "Borisana",
+         
+               "Chandisana",
+         
+               "Chhatral",
+         
+               "Dantali",
+         
+               "Dhamasna",
+         
+               "Dhanaj",
+         
+               "Dhanot",
+         
+               "Dhendhu",
+         
+               "Dingucha",
+         
+               "Ganpatpura",
+         
+               "Golthara",
+         
+               "Hajipur",
+         
+               "Himmatpura",
+         
+               "Isand",
+         
+               "Itla",
+         
+               "Jamla",
+         
+               "Jaspur",
+         
+               "Jethlaj",
+         
+               "Kantha",
+         
+               "Karoli",
+         
+               "Khatraj",
+         
+               "Khorajdabhi",
+         
+               "Limbodara",
+         
+               "Mokhasan",
+         
+               "Mubarakpura",
+         
+               "Mulasana",
+         
+               "Nadri",
+         
+               "Nandoli",
+         
+               "Nardipur",
+         
+               "Nasmed",
+         
+               "Nava",
+         
+               "Ola",
+         
+               "Paliyad",
+         
+               "Palodiya",
+         
+               "Palsana",
+         
+               "Pansar",
+         
+               "Piyaj",
+         
+               "Pratappura",
+         
+               "Rakanpur",
+         
+               "Ramnagar",
+         
+               "Rampura",
+         
+               "Rancharada",
+         
+               "Ranchhodpura",
+         
+               "Sabaspur",
+         
+               "Saij",
+         
+               "Sanavad",
+         
+               "Santej",
+         
+               "Sherisa",
+         
+               "Sobhasan",
+         
+               "Soja",
+         
+               "Unali",
+         
+               "Usmanabad",
+         
+               "Vadavsvami",
+         
+               "Vadsar",
+         
+               "Vagosana",
+         
+               "Vansajada",
+         
+               "Vansajada Dhedia",
+         
+               "Vayana",
+         
+               "Veda"
+         ]
+            },
+            {
+               "region":"Mansa",
+               "village":[      "Ajol",
+
+               "Amarapur",
+         
+               "Amarpura",
+         
+               "Ambod",
+         
+               "Anodiya",
+         
+               "Badpura",
+         
+               "Bapupura",
+         
+               "Bhimpura",
+         
+               "Bilodra",
+         
+               "Boru",
+         
+               "Chadasana",
+         
+               "Charada",
+         
+               "Delvad",
+         
+               "Delvada",
+         
+               "Dhameda",
+         
+               "Dholakuva",
+         
+               "Fatehpura",
+         
+               "Galthara",
+         
+               "Gulabpura",
+         
+               "Gunma",
+         
+               "Harnahoda",
+         
+               "Indrapura",
+         
+               "Itadara",
+         
+               "Khadat",
+         
+               "Kharna",
+         
+               "Khata Amba",
+         
+               "Kuvadara",
+         
+               "Lakroda",
+         
+               "Lodra",
+         
+               "Mahudi",
+         
+               "Mandali",
+         
+               "Manekpur Makakhad",
+         
+               "Padusma",
+         
+               "Paldi Rathod",
+         
+               "Paldi Vyas",
+         
+               "Parbatpura",
+         
+               "Parsa",
+         
+               "Patanpura",
+         
+               "Pundhara",
+         
+               "Rajpura",
+         
+               "Rampura",
+         
+               "Rangpur",
+         
+               "Ridrol",
+         
+               "Samou",
+         
+               "Solaiya",
+
+               "Varsoda",
+
+               "Veda",
+         
+               "Vihar"
+         
+         ]
+            }
+         ]
+      },
+
+      {  
+         "district":"Ahmedabad",
+         "taluka":[  
+            {
+               "region":"Ahmadabad City",  
+               "village":["Ahmadabad City"]
+            },
+            {
+               "region": "Barwala",
+               "village":[      "Ankevaliya",
+
+               "Bela",
+         
+               "Chachariya",
+         
+               "Chokdi",
+         
+               "Dhadhodar",
+         
+               "Hebatpur",
+         
+               "Jharvaliya",
+         
+               "Kapadiyali",
+         
+               "Khadsaliya",
+         
+               "Khambhada",
+         
+               "Khamidana",
+         
+               "Kundal",
+         
+               "Nabhoi",
+         
+               "Navda",
+         
+               "Pipariya",
+         
+               "Polarpur",
+         
+               "Rampura",
+         
+               "Ranpari",
+         
+               "Refda",
+         
+               "Rojid",
+         
+               "Salangpur",
+         
+               "Sangasar",
+         
+               "Shahpur",
+         
+               "Sodhi",
+         
+               "Timbla",
+         
+               "Vadhela",
+         
+               "Vahiya"
+         ]
+            },
+            {
+               "region": "Bavla",
+               "village":[      "Adroda",
+
+               "Amipura",
+         
+               "Bagodara",
+         
+               "Baldana",
+         
+               "Bhamsara",
+         
+               "Bhayla",
+         
+               "Chhabasar",
+         
+               "Chiyada",
+         
+               "Dahegamda",
+         
+               "Devadthal",
+         
+               "Devdholera",
+         
+               "Dhanwada",
+         
+               "Dhedhal",
+         
+               "Dhingda",
+         
+               "Dumali",
+         
+               "Durgi",
+         
+               "Gangad",
+         
+               "Gundanapara",
+         
+               "Hasannagar",
+         
+               "Juval Rupavati",
+         
+               "Kaliveji",
+         
+               "Kalyangadh",
+         
+               "Kanotar",
+         
+               "Kavitha",
+         
+               "Kavla",
+         
+               "Kerala",
+         
+               "Kesaradi",
+         
+               "Kochariya",
+         
+               "Lagdana",
+         
+               "Memar",
+         
+               "Meni",
+         
+               "Metal",
+         
+               "Mithapur",
+         
+               "Nanodara",
+         
+               "Rajoda",
+         
+               "Ranesar",
+         
+               "Rasam",
+         
+               "Rohika",
+         
+               "Rupal",
+         
+               "Sakodara",
+         
+               "Saljada",
+         
+               "Sankod",
+         
+               "Sarala",
+         
+               "Shiyal",
+         
+               "Vasna Dhedhal",
+         
+               "Vasna Nanodara",
+         
+               "Zekda"
+         ]
+            },
+            {
+               "region": "Daskroi",
+               "village":[      "Aslali",
+
+               "Badodara",
+         
+               "Bakrol Bujrang",
+         
+               "Barejadi",
+         
+               "Bharkunda",
+         
+               "Bhat",
+         
+               "Bhavda",
+         
+               "Bhuval",
+         
+               "Bhuvaldi",
+         
+               "Bibipur",
+         
+               "Bilasiya",
+         
+               "Bopal",
+         
+               "Chandial",
+         
+               "Chavlaj",
+         
+               "Chosar",
+         
+               "Devdi",
+         
+               "Dhamatvan",
+         
+               "Enasan",
+         
+               "Gamdi",
+         
+               "Gatrad",
+         
+               "Geratnagar",
+         
+               "Geratpur",
+         
+               "Ghuma",
+         
+               "Giramtha",
+         
+               "Govindada",
+         
+               "Harnivav",
+         
+               "Hathijan",
+         
+               "Hirapur",
+         
+               "Huka",
+         
+               "Istolabad",
+         
+               "Jetalpur",
+         
+               "Kanbha",
+         
+               "Kaniyel",
+         
+               "Kasindra",
+         
+               "Kathwada",
+         
+               "Khodiyar",
+         
+               "Kubadthal",
+         
+               "Kuha",
+         
+               "Kujad",
+         
+               "Lalpur",
+         
+               "Lapkaman",
+         
+               "Lilapur",
+         
+               "Mahijda",
+         
+               "Memadpur",
+         
+               "Miroli",
+         
+               "Muthiya",
+         
+               "Nandej",
+         
+               "Navapura",
+         
+               "Navarangpura",
+         
+               "Naz",
+         
+               "Ode",
+         
+               "Paldi Kankaj",
+         
+               "Pardhol",
+         
+               "Pasunj",
+         
+               "Ranodara",
+         
+               "Ropda",
+         
+               "Singarva",
+         
+               "Timba",
+         
+               "Undrel",
+         
+               "Vadod",
+         
+               "Vahelal",
+         
+               "Vanch",
+         
+               "Vasai",
+         
+               "Visalpur",
+         
+               "Zanu"
+         ]
+            },
+            {
+               "region": "Detroj Rampura",
+               "village":[      "Abasna",
+
+               "Aghar",
+         
+               "Amarpura",
+         
+               "Balsasan",
+         
+               "Bamroli",
+         
+               "Bantai",
+         
+               "Bhagapura",
+         
+               "Bhankoda",
+         
+               "Bhatariya",
+         
+               "Bhonyni",
+         
+               "Bhonynipura",
+         
+               "Boska",
+         
+               "Chhaniyar",
+         
+               "Dabhsar",
+         
+               "Damodaripura",
+         
+               "Dangarva",
+         
+               "Dekavada",
+         
+               "Detroj",
+         
+               "Fatepura",
+         
+               "Gamanpura",
+         
+               "Ghatisana",
+         
+               "Ghelda",
+         
+               "Gunjala",
+         
+               "Hathipura",
+         
+               "Indrapura",
+         
+               "Jaspura",
+         
+               "Jethipura",
+         
+               "Kantrodi",
+         
+               "Kanz",
+         
+               "Kointiya",
+         
+               "Kukvav",
+         
+               "Madrisana",
+         
+               "Marusana",
+         
+               "Mota Karanpura",
+         
+               "Moti Rantai",
+         
+               "Nadishala",
+         
+               "Nana Karanpura",
+         
+               "Nani Rantai",
+         
+               "Nathpura",
+         
+               "Odhav",
+         
+               "Odhav Paru",
+         
+               "Panar",
+         
+               "Rajpura",
+         
+               "Rampura",
+         
+               "Ratanpura",
+         
+               "Rudatal",
+         
+               "Sadatpura",
+         
+               "Sangpara",
+         
+               "Shihor",
+         
+               "Shobhasan",
+         
+               "Sujpura",
+         
+               "Sunvala",
+         
+               "Telavi",
+         
+               "Umedpura",
+         
+               "Vasna"
+         ]
+            },
+            {
+               "region":  "Dhandhuka",
+               "village":[     "Adval",
+
+               "Akru",
+          
+               "Ambli",
+          
+               "Anandpur",
+          
+               "Aniyali Bhimji",
+          
+               "Bajarda",
+          
+               "Bavliyari",
+          
+               "Bhadiyad",
+          
+               "Bhalgamda",
+          
+               "Bhangadh",
+          
+               "Bhimtalav",
+          
+               "Buranpur",
+          
+               "Chandarva",
+          
+               "Cher",
+          
+               "Chharodiya",
+          
+               "Chhasiyana",
+          
+               "Dhanala",
+          
+               "Dholera",
+          
+               "Fattepur",
+          
+               "Fedra",
+          
+               "Galsana",
+          
+               "Gamph",
+          
+               "Gogla",
+          
+               "Gorasu",
+          
+               "Gunjar",
+          
+               "Haripura",
+          
+               "Jaliya",
+          
+               "Jaska",
+          
+               "Kadipur",
+          
+               "Kamatalav",
+          
+               "Kamiyala",
+          
+               "Kasindra",
+          
+               "Khadol",
+          
+               "Kharad",
+          
+               "Khasta",
+          
+               "Khun",
+          
+               "Kotda",
+          
+               "Kothadiya",
+          
+               "Mahadevpura",
+          
+               "Mingalpur",
+          
+               "Morasiya",
+          
+               "Mota Tradiya",
+          
+               "Mundi",
+          
+               "Nana Tradiya",
+          
+               "Navagam",
+          
+               "Otariya",
+          
+               "Pachchham",
+          
+               "Padana",
+          
+               "Panchi",
+          
+               "Parabdi",
+          
+               "Pipal",
+          
+               "Pipli",
+          
+               "Rahtalav",
+          
+               "Ratanpur",
+          
+               "Rayka",
+          
+               "Rojka",
+          
+               "Salasar",
+          
+               "Sandhida",
+          
+               "Sarwal",
+          
+               "Shela",
+          
+               "Tagadi",
+          
+               "Umargadh",
+          
+               "Unchdi",
+          
+               "Vagad",
+          
+               "Valinda",
+          
+               "Vasana",
+          
+               "Zankhi",
+          
+               "Zanzarka",
+          
+               "Zinzar"
+          ]
+            },
+            {
+               "region": "Dholka",
+               "village":[      "Ambaliyara",
+
+               "Ambareli",
+         
+               "Ambethi",
+         
+               "Anandpura",
+         
+               "Andhari",
+         
+               "Arnej",
+         
+               "Badarkha",
+         
+               "Begva",
+         
+               "Bhetawada",
+         
+               "Bholad",
+         
+               "Bhumli",
+         
+               "Bhurkhi",
+         
+               "Chaloda",
+         
+               "Chandisar",
+         
+               "Dadusar",
+         
+               "Dholi",
+         
+               "Dholka",
+         
+               "Ganesar",
+         
+               "Ganol",
+         
+               "Girand",
+         
+               "Gundi",
+         
+               "Ingoli",
+         
+               "Jakhda",
+         
+               "Jalalpur Godhaneshvar",
+         
+               "Jalalpur Vazifa",
+         
+               "Javaraj",
+         
+               "Kadipur",
+         
+               "Kaliyapura",
+         
+               "Kalyanpur",
+         
+               "Kariyana",
+         
+               "Kauka",
+         
+               "Kesargadh",
+         
+               "Khanpur",
+         
+               "Kharanti",
+         
+               "Khatripur",
+         
+               "Koth",
+         
+               "Lana",
+         
+               "Loliya",
+         
+               "Maflipur",
+         
+               "Moti Boru",
+         
+               "Mujpur",
+         
+               "Nani Boru",
+         
+               "Nesda",
+         
+               "Paldi",
+         
+               "Pisawada",
+         
+               "Rajpur",
+         
+               "Rampur",
+         
+               "Rampura",
+         
+               "Ranoda",
+         
+               "Raypur",
+         
+               "Rupgadh",
+         
+               "Sahij",
+         
+               "Samani",
+         
+               "Saragvala",
+         
+               "Sarandi",
+         
+               "Saroda",
+         
+               "Sathal",
+         
+               "Shekhdi",
+         
+               "Shiyawada",
+         
+               "Simej",
+         
+               "Sindhraj",
+         
+               "Transad",
+         
+               "Uteliya",
+         
+               "Valthera",
+         
+               "Varna",
+         
+               "Vasna Keliya",
+         
+               "Vataman",
+         
+               "Vautha",
+         
+               "Vejalka",
+         
+               "Virdi",
+         
+               "Virpur"
+         ]
+            },
+            {
+               "region":  "Mandal",
+               "village":[     "Ambaliyara",
+
+               "Ambareli",
+          
+               "Ambethi",
+          
+               "Anandpura",
+          
+               "Andhari",
+          
+               "Arnej",
+          
+               "Badarkha",
+          
+               "Begva",
+          
+               "Bhetawada",
+          
+               "Bholad",
+          
+               "Bhumli",
+          
+               "Bhurkhi",
+          
+               "Chaloda",
+          
+               "Chandisar",
+          
+               "Dadusar",
+          
+               "Dholi",
+          
+               "Dholka",
+          
+               "Ganesar",
+          
+               "Ganol",
+          
+               "Girand",
+          
+               "Gundi",
+          
+               "Ingoli",
+          
+               "Jakhda",
+          
+               "Jalalpur Godhaneshvar",
+          
+               "Jalalpur Vazifa",
+          
+               "Javaraj",
+          
+               "Kadipur",
+          
+               "Kaliyapura",
+          
+               "Kalyanpur",
+          
+               "Kariyana",
+          
+               "Kauka",
+          
+               "Kesargadh",
+          
+               "Khanpur",
+          
+               "Kharanti",
+          
+               "Khatripur",
+          
+               "Koth",
+          
+               "Lana",
+          
+               "Loliya",
+          
+               "Maflipur",
+          
+               "Moti Boru",
+          
+               "Mujpur",
+          
+               "Nani Boru",
+          
+               "Nesda",
+          
+               "Paldi",
+          
+               "Pisawada",
+          
+               "Rajpur",
+          
+               "Rampur",
+          
+               "Rampura",
+          
+               "Ranoda",
+          
+               "Raypur",
+          
+               "Rupgadh",
+          
+               "Sahij",
+          
+               "Samani",
+          
+               "Saragvala",
+          
+               "Sarandi",
+          
+               "Saroda",
+          
+               "Sathal",
+          
+               "Shekhdi",
+          
+               "Shiyawada",
+          
+               "Simej",
+          
+               "Sindhraj",
+          
+               "Transad",
+          
+               "Uteliya",
+          
+               "Valthera",
+          
+               "Varna",
+          
+               "Vasna Keliya",
+          
+               "Vataman",
+          
+               "Vautha",
+          
+               "Vejalka",
+          
+               "Virdi",
+          
+               "Virpur"
+          ]
+            },
+            {
+               "region": "Ranpur",
+               "village":[      "Ambaliyara",
+
+               "Ambareli",
+         
+               "Ambethi",
+         
+               "Anandpura",
+         
+               "Andhari",
+         
+               "Arnej",
+         
+               "Badarkha",
+         
+               "Begva",
+         
+               "Bhetawada",
+         
+               "Bholad",
+         
+               "Bhumli",
+         
+               "Bhurkhi",
+         
+               "Chaloda",
+         
+               "Chandisar",
+         
+               "Dadusar",
+         
+               "Dholi",
+         
+               "Dholka",
+         
+               "Ganesar",
+         
+               "Ganol",
+         
+               "Girand",
+         
+               "Gundi",
+         
+               "Ingoli",
+         
+               "Jakhda",
+         
+               "Jalalpur Godhaneshvar",
+         
+               "Jalalpur Vazifa",
+         
+               "Javaraj",
+         
+               "Kadipur",
+         
+               "Kaliyapura",
+         
+               "Kalyanpur",
+         
+               "Kariyana",
+         
+               "Kauka",
+         
+               "Kesargadh",
+         
+               "Khanpur",
+         
+               "Kharanti",
+         
+               "Khatripur",
+         
+               "Koth",
+         
+               "Lana",
+         
+               "Loliya",
+         
+               "Maflipur",
+         
+               "Moti Boru",
+         
+               "Mujpur",
+         
+               "Nani Boru",
+         
+               "Nesda",
+         
+               "Paldi",
+         
+               "Pisawada",
+         
+               "Rajpur",
+         
+               "Rampur",
+         
+               "Rampura",
+         
+               "Ranoda",
+         
+               "Raypur",
+         
+               "Rupgadh",
+         
+               "Sahij",
+         
+               "Saragvala",
+         
+               "Sarandi",
+         
+               "Saroda",
+         
+               "Sathal",
+         
+               "Shekhdi",
+         
+               "Shiyawada",
+         
+               "Simej",
+         
+               "Sindhraj",
+         
+               "Transad",
+         
+               "Uteliya",
+         
+               "Valthera",
+         
+               "Varna",
+         
+               "Vasna Keliya",
+         
+               "Vataman",
+         
+               "Vautha",
+         
+               "Vejalka",
+         
+               "Virdi",
+         
+               "Virpur"
+         ]
+            },
+            {
+               "region": "Sanand",
+               "village":[     "Ambaliyara",
+
+               "Ambareli",
+          
+               "Ambethi",
+          
+               "Anandpura",
+          
+               "Andhari",
+          
+               "Arnej",
+          
+               "Badarkha",
+          
+               "Begva",
+          
+               "Bhetawada",
+          
+               "Bholad",
+          
+               "Bhumli",
+          
+               "Bhurkhi",
+          
+               "Chaloda",
+          
+               "Chandisar",
+          
+               "Dadusar",
+          
+               "Dholi",
+          
+               "Dholka",
+          
+               "Ganesar",
+          
+               "Ganol",
+          
+               "Girand",
+          
+               "Gundi",
+          
+               "Ingoli",
+          
+               "Jakhda",
+          
+               "Jalalpur Godhaneshvar",
+          
+               "Jalalpur Vazifa",
+          
+               "Javaraj",
+          
+               "Kadipur",
+          
+               "Kaliyapura",
+          
+               "Kalyanpur",
+          
+               "Kariyana",
+          
+               "Kauka",
+          
+               "Kesargadh",
+          
+               "Khanpur",
+          
+               "Kharanti",
+          
+               "Khatripur",
+          
+               "Koth",
+          
+               "Lana",
+          
+               "Loliya",
+          
+               "Maflipur",
+          
+               "Moti Boru",
+          
+               "Mujpur",
+          
+               "Nani Boru",
+          
+               "Nesda",
+          
+               "Paldi",
+          
+               "Pisawada",
+          
+               "Rajpur",
+          
+               "Rampur",
+          
+               "Rampura",
+          
+               "Ranoda",
+          
+               "Raypur",
+          
+               "Rupgadh",
+          
+               "Sahij",
+          
+               "Samani",
+          
+               "Saragvala",
+          
+               "Sarandi",
+          
+               "Saroda",
+          
+               "Sathal",
+          
+               "Shekhdi",
+          
+               "Shiyawada",
+          
+               "Simej",
+          
+               "Sindhraj",
+          
+               "Transad",
+          
+               "Uteliya",
+          
+               "Valthera",
+          
+               "Varna",
+          
+               "Vasna Keliya",
+          
+               "Vataman",
+          
+               "Vautha",
+          
+               "Vejalka",
+          
+               "Virdi",
+          
+               "Virpur"
+          ]
+            },
+            {
+               "region": "Viramgam",
+               "village":[     "Asalgam",
+
+               "Bhadana",
+          
+               "Bhavda",
+          
+               "Bhojva",
+          
+               "Chanothiya",
+          
+               "Chuninapura",
+          
+               "Dalsana",
+          
+               "Dediyasan",
+          
+               "Devpura",
+          
+               "Dhakdi",
+          
+               "Dumana",
+          
+               "Ghoda",
+          
+               "Goraiya",
+          
+               "Hansalpur Sereshvar",
+          
+               "Jakhwada",
+          
+               "Jaksi",
+          
+               "Jalampura",
+          
+               "Jetapur",
+          
+               "Juna Padar",
+          
+               "Kadipur",
+          
+               "Kaliyana",
+          
+               "Kalyanpur",
+          
+               "Kamijla",
+          
+               "Kankaravadi",
+          
+               "Kanpura",
+          
+               "Karakathal",
+          
+               "Karangadh",
+          
+               "Kariyana",
+          
+               "Kayla",
+          
+               "Khengariya",
+          
+               "Khudad",
+          
+               "Kokta",
+          
+               "Kumarkhan",
+          
+               "Limbad",
+          
+               "Liya",
+          
+               "Melaj",
+          
+               "Memadpura",
+          
+               "Moti Kishol",
+          
+               "Moti Kumad",
+          
+               "Nadiyana",
+          
+               "Nani Kishol",
+          
+               "Nani Kumad",
+          
+               "Nilki",
+          
+               "Ogan",
+          
+               "Rahemalpur",
+          
+               "Rangpur",
+          
+               "Rupavati",
+          
+               "Sabalpura",
+          
+               "Sachana",
+          
+               "Sarsavadi",
+          
+               "Shahpur",
+          
+               "Shivpura",
+          
+               "Sokali",
+          
+               "Thori Mubarak",
+          
+               "Thori Thambha",
+          
+               "Thori Vadgas",
+          
+               "Thuleta",
+          
+               "Ukhalod",
+          
+               "Vadgas",
+          
+               "Valana",
+          
+               "Vani",
+          
+               "Vanthal",
+          
+               "Varsava",
+          
+               "Vasan",
+          
+               "Vasveliya",
+          
+               "Vekariya",
+          
+               "Viramgam",
+          
+               "Zezara"
+          ]
+            }
+         ]
+      }
+   ]
+}

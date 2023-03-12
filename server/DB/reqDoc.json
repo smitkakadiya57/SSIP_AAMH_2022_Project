@@ -1,0 +1,39 @@
+{  
+   "requireDocs":[ 
+
+      
+      {  
+         "service":"Land Registry",
+         "field":[
+            {
+               "label":"Full Name",
+               "name":"name",
+               "type":"text"
+            },
+            {
+               "label":"Mobile No",
+               "name":"mobile",
+               "type":"number"
+            },
+            {
+               "label":"Relation",
+               "name":"relation",
+               "type":"number"
+            },
+            {
+               "label":"Adhhar Card",
+               "name":"adharcard",
+               "type":"file"
+            },
+            {
+               "label":"Voter Card",
+               "name":"votercard",
+               "type":"file"
+            }
+
+
+         ]
+      }
+         
+   ]
+}
