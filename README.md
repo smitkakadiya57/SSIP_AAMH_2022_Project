@@ -12,11 +12,11 @@ Blockchain is a technology that allows us to store and use information in a dist
 
 
 ## Screenshots
-
+**Homepage**
 ![App Screenshot](https://drive.google.com/uc?export=view&id=131s699U5eDSPnIo9kJnRF7Zo7kkCet2C)   
-
+**Admin**
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1CjD4QNgG3kdiOaoliQyhYVmF5MNZjvsy)  
-
+**Client**
 ![App Screenshot](https://drive.google.com/uc?export=view&id=1d2UXlFE5AF11R3nb_BF3dO8llMuMN39y)
 
 
